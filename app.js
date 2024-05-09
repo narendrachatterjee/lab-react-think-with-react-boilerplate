@@ -8,4 +8,4 @@ class ReactContainer extends React.Component{
   
 }
 const container = document.getElementById('react-container');
-ReactDOM.render(React.createElement(ReactContainer),container);
+ReactDOM.render("Hello! Welcome to React",container);
